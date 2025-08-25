@@ -13,9 +13,9 @@ Projects focused on implementing core data structures and applying them to class
 ---
 
 ## CS330 — Design and Analysis of Algorithms  
-A collection of problem-driven algorithm implementations
+A collection of problem-driven algorithm implementations which includes Java implementations of classic algorithmic techniques such as shortest paths (Bellman-Ford), network flow, greedy interval scheduling, graph connectivity, and dynamic programming.
 - [Design of Algorithms](https://github.com/ashleywhipple/Design-of-Algorithms)  
-— Includes Java implementations of classic algorithmic techniques such as shortest paths (Bellman-Ford), network flow, greedy interval scheduling, graph connectivity, and dynamic programming.
+
 ---
 
 ## Personal Projects  
